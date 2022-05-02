@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @MDelibero
-- 👀 I’m interested in data analysis & machine learning
-- 🌱 I’m currently learning Python & looking to collaborate on pro-bono projects & freelance gigs
-- 📫 You can reach me at --> marcodelibero@gmail.com - linkedin.com/in/marcodelibero/
+
